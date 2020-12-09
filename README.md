@@ -36,3 +36,5 @@ test/test2/test3/test4.txt (from data collecting)
 
 
 NBViewer website: https://nbviewer.jupyter.org/github/whatrusaying/laughing-adventure/tree/main/grp%20pro/
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/whatrusaying/laughing-adventure/COM3203)
