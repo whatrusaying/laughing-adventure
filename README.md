@@ -1,4 +1,4 @@
-# crying-adventure actually
+# 
 COM 3203 Group 12 research about GE instruction forum
 
 
@@ -31,3 +31,8 @@ filepath.txt /internaltional.xls/ internaltional.csv (only international student
 
 4.SYSU data trail and Sentiment Analysis(half-success)
 test/test2/test3/test4.txt (from data collecting)
+
+
+
+
+NBViewer website: https://nbviewer.jupyter.org/github/whatrusaying/laughing-adventure/tree/main/grp%20pro/
